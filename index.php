@@ -1,3 +1,3 @@
 <?php
-    It's OK?;
+    echo "It's OK?";
 ?>
